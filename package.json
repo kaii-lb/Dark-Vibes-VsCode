@@ -1,0 +1,30 @@
+{
+  "name": "dark-vibes-yay",
+  "publisher": "kaii",
+  "displayName": "dark_vibes",
+  "description": "A stupidly dark theme for the stupidly dark people :D",
+  "version": "0.0.2",
+  "author": {
+    "name": "kaii"
+  },
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Vibes :D",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Vibes D-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/kaii-lb/Dark-Vibes-VsCode/"
+  },
+  "license": "BSD 3-clause"
+}
